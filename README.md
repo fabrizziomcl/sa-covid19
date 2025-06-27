@@ -14,7 +14,7 @@ rechazo a las vacunas.
 
 ## Demo en línea
 
-[Ver demo en Streamlit Cloud]((https://tf-pacd-sentiment-analysis-twitter-covid19.streamlit.app/))
+[Ver demo en Streamlit Cloud](https://tf-pacd-sentiment-analysis-twitter-covid19.streamlit.app/)
 
 ---
 
@@ -48,7 +48,7 @@ streamlit run sentiment_dashboard.py
 
 ## 🗂 Dataset
 
-El dataset usado se encuentra en [Kaggle]((https://www.kaggle.com/datasets/kaushiksuresh147/covidvaccine-tweets))
+El dataset usado se encuentra en [Kaggle](https://www.kaggle.com/datasets/kaushiksuresh147/covidvaccine-tweets/)
 ---
 
 
