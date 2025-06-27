@@ -25,13 +25,14 @@ rechazo a las vacunas.
 
 ```bash
 git clone https://github.com/fabrizziomcl/sa-covid19.git
+cd sa-covid19
 ````
 
 ### 2. Crea y activa un entorno con conda
 
 ```bash
-conda create -y -n covid_sentiment python=3.11
-conda activate covid_sentiment
+conda create -y -n sa-covid19 python=3.11
+conda activate sa-covid19
 ```
 
 ### 3. Instala las dependencias
