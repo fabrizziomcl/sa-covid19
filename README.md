@@ -48,7 +48,7 @@ streamlit run sentiment_dashboard.py
 
 ## 🗂 Dataset
 
-El dataset usado se encuentra en [Streamlit]([https://streamlit.io/](https://www.kaggle.com/datasets/kaushiksuresh147/covidvaccine-tweets))
+El dataset usado se encuentra en [Kaggle]((https://www.kaggle.com/datasets/kaushiksuresh147/covidvaccine-tweets))
 ---
 
 
